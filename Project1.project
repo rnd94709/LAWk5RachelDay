@@ -33,6 +33,25 @@
             "for",
             "for.json"
           ]
+<<<<<<< Updated upstream
+=======
+        },
+        {
+          "!type": "External",
+          "file": [
+            "forms",
+            "calc",
+            "calc.json"
+          ]
+        },
+        {
+          "!type": "External",
+          "file": [
+            "forms",
+            "strings",
+            "strings.json"
+          ]
+>>>>>>> Stashed changes
         }
       ],
       "configxml": null,
